@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**wangzhizhou/wangzhizhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on iOS Development in China.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Swift/SwiftUI/Vapor and Minecraft game operation.
+   - [Personal Home Page](https://www.jokerhub.cn)
+   - [Minecraft Game Home Page](https://minecraft.jokerhub.cn)
+       - minecraft server connect: `jokerhub.cn:25565`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on minecraft server operator and game player. 
+
+- 📫 How to reach me: 
+   - WeChat: `w_z_z_1991`
+   - QQ: `824219521`
