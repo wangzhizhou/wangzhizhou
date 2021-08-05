@@ -2,9 +2,7 @@
 
 - 🔭 I'm currently working on iOS Development in China.
 
-- 🌱 I’m currently learning Swift/SwiftUI/Vapor and Minecraft game operation.
-   - [Personal Home Page](https://www.jokerhub.cn)
-   - [Minecraft Game Home Page](https://minecraft.jokerhub.cn)
+- 🌱 I’m currently learning [Swift](https://swift.org)/[SwiftUI](https://developer.apple.com/xcode/swiftui/)/[Vapor](https://vapor.codes) and [Minecraft](https://minecraft.jokerhub.cn) game operation.
 
 - 👯 I’m looking to collaborate on minecraft server operator and game player. 
 
