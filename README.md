@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Swift/SwiftUI/Vapor and Minecraft game operation.
    - [Personal Home Page](https://www.jokerhub.cn)
    - [Minecraft Game Home Page](https://minecraft.jokerhub.cn)
-       - minecraft server connect: `jokerhub.cn:25565`
 
 - 👯 I’m looking to collaborate on minecraft server operator and game player. 
 
