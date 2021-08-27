@@ -1,3 +1,5 @@
+<img aligh="right" src="https://github-readme-stats.vercel.app/api?username=wangzhizhou&show_icons=true&theme=radical&layout=compact" />
+
 ### Hi there 👋
 
 - 🔭 I'm currently working on iOS Development in China.
@@ -10,7 +12,8 @@
    - WeChat: `w_z_z_1991`
    - QQ: `824219521`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangzhizhou&show_icons=true&theme=radical&layout=compact)
+
+
 
 
 
