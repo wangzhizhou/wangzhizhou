@@ -1,8 +1,11 @@
-
-<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-   <img src="https://github-readme-stats.vercel.app/api?username=wangzhizhou&show_icons=true&theme=dark&locale=en&hide_title=true" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangzhizhou&layout=compact&theme=dark" />
-</a>
+<div>
+   <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+      <img src="https://github-readme-stats.vercel.app/api?username=wangzhizhou&show_icons=true&theme=dark&locale=en&hide_title=true" />
+   </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangzhizhou&layout=compact&theme=dark" />
+   </a>
+</div>
 
 ### Hi there 👋
 
