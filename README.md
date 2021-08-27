@@ -12,6 +12,6 @@
 
 ---
 
-[![wangzhizhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangzhizhou)](https://github.com/anuraghazra/github-readme-stats)
+![wangzhizhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangzhizhou&show_icons=true&theme=radical)
 
 
