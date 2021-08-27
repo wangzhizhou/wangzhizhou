@@ -1,4 +1,8 @@
-<img aligh="right" src="https://github-readme-stats.vercel.app/api?username=wangzhizhou&show_icons=true&theme=radical&layout=compact" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+   <img src="https://github-readme-stats.vercel.app/api?username=wangzhizhou&show_icons=true&theme=dark&locale=en&hide_title=true" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangzhizhou&layout=compact&theme=dark" />
+</a>
 
 ### Hi there 👋
 
@@ -11,16 +15,6 @@
 - 📫 How to reach me: 
    - WeChat: `w_z_z_1991`
    - QQ: `824219521`
-
-
-
-
-
-
-
-
-
-
 
 
 
