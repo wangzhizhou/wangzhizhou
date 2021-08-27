@@ -10,5 +10,5 @@
    - WeChat: `w_z_z_1991`
    - QQ: `824219521`
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![wangzhizhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangzhizhou)](https://github.com/wangzhizhou/github-readme-stats)
 
