@@ -7,6 +7,8 @@
    - [Swift][Swift] & [SwiftUI][SwiftUI]
    - [Vapor][Vapor] & [OpenAPI][OpenAPI]/[Swagger][Swagger]
    - [Minecraft][Minecraft]
+ 
+   - New to [Rust][Rust]
 
 - ⌨️ App I developed:
    
@@ -23,3 +25,4 @@
 [OpenAPI]: <https://www.openapis.org/what-is-openapi>
 [Swagger]: <https://swagger.io/>
 [APNs Helper]: <https://apps.apple.com/cn/app/apns-helper/id6443608175>
+[Rust]: <https://www.rust-lang.org/>
