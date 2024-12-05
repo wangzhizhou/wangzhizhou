@@ -13,6 +13,8 @@
 - ⌨️ App I developed:
    
    - [APNs Helper][APNs Helper]
+ 
+- ❤️‍🔥 Languages: Bash/C/C++/ObjC/Swift/Python/Ruby/Rust
 
 - 📫 How to reach me: 
    - WeChat: `w_z_z_1991`
