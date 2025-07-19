@@ -5,7 +5,7 @@
 - 🎯 I'm currently working and learning on:
    - ⌨️ [Swift][Swift] & [SwiftUI][SwiftUI] & [SwiftData][SwiftData] & [SwiftTesting][SwiftTesting]
    - 💧 [Vapor][Vapor] / [Hummingbird][Hummingbird] & [Swagger][Swagger] / [OpenAPI][OpenAPI]
-   - 🎮 [Minecraft][Minecraft] & [PaperMC][PaperMC] & [OrzMC][OrzMCPlugin]
+   - 🎮 [Minecraft][Minecraft] & [PaperMC][PaperMC] & [OrzMC Plugin][OrzMCPlugin]
    - 🦀 New to [Rust][Rust]
      
 - 📱 App I developed:
