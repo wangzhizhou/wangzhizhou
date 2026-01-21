@@ -16,7 +16,8 @@
 - ❤️‍🔥 Languages:
    - Bash/Python/Ruby
    - C/C++/ObjC/Swift/Rust
-   - 😅 ArkTS 
+   - 😅 ArkTS
+   - 🚀 AI Agent
 
 - 📫 How to reach me: 
    - WeChat: `w_z_z_1991`
