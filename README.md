@@ -19,7 +19,7 @@
    - 😅 ArkTS
    - 🤖 AI Agent
   
-- 🚀 Vide Coding
+- 🚀 Vide Coding:
    - Tools: [TRAE][TRAE]
    - Projects:
      - [OrzMCBackup][OrzMCBackup]
