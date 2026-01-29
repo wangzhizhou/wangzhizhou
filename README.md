@@ -17,7 +17,14 @@
    - Bash/Python/Ruby
    - C/C++/ObjC/Swift/Rust
    - 😅 ArkTS
-   - 🚀 AI Agent
+   - 🤖 AI Agent
+  
+- 🚀 Vide Coding
+   - Tools: [TRAE][TRAE]
+   - Projects:
+     - [OrzMCBackup][OrzMCBackup]
+     - [rust-thanos][rust-thanos]
+     - [OrzEmbed][OrzEmbed]
 
 - 📫 How to reach me: 
    - WeChat: `w_z_z_1991`
@@ -37,3 +44,8 @@
 [APNs Helper]: <https://apps.apple.com/cn/app/apns-helper/id6443608175>
 [Rust]: <https://www.rust-lang.org/>
 [joker@spi]: <https://swiftpackageindex.com/wangzhizhou>
+
+[TRAE]: <https://www.trae.cn/>
+[OrzMCBackup]: <https://github.com/OrzGeeker/OrzMCBackup>
+[rust-thanos]: <https://github.com/wangzhizhou/rust-thanos>
+[OrzEmbed]: <https://github.com/OrzGeeker/OrzEmbed>
