@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 I am a Chinese Apple developer.
+- 👨🏻‍💻 I am a Chinese Apple developer. 🇨🇳
   
 - 🎯 I'm currently working and learning on:
    - ⌨️ [Swift][Swift] & [SwiftUI][SwiftUI] & [SwiftData][SwiftData] & [SwiftTesting][SwiftTesting]
