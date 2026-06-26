@@ -33,10 +33,6 @@
     - [Claude Code][Claude Code]
     - [Codex][Codex]
     - [TRAE][TRAE]
-  - Projects:
-    - [OrzMCBackup][OrzMCBackup]
-    - [rust-thanos][rust-thanos]
-    - [OrzEmbed][OrzEmbed]
          
 ---
 
@@ -61,6 +57,3 @@
 [Codex]: <https://chatgpt.com/codex>
 [Hermes]: <https://hermes-agent.nousresearch.com/>
 [OpenClaw]: <https://openclaw.ai/>
-[OrzMCBackup]: <https://github.com/OrzGeeker/OrzMCBackup>
-[rust-thanos]: <https://github.com/wangzhizhou/rust-thanos>
-[OrzEmbed]: <https://github.com/OrzGeeker/OrzEmbed>
