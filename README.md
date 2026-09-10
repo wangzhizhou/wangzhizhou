@@ -26,11 +26,12 @@
   - [joker@SPI][joker@spi]
   
 - 🚀 Vide Coding:
-  - Tools: 
-    - [CC Switch][CC Switch]
-    - [OpenClaw][OpenClaw]
-    - [Hermes][Hermes]
+  - Tools:
+    - [Pi Coding Agent][Pi Coding Agent]
     - [Claude Code][Claude Code]
+    - [CC Switch][CC Switch]
+    - [Hermes][Hermes]
+    - [OpenClaw][OpenClaw]
     - [Codex][Codex]
     - [TRAE][TRAE]
          
@@ -51,6 +52,7 @@
 [Rust]: <https://www.rust-lang.org/>
 [joker@spi]: <https://swiftpackageindex.com/wangzhizhou>
 
+[Pi Coding Agent]: <https://pi.dev>
 [TRAE]: <https://www.trae.cn/>
 [CC Switch]: <https://ccswitch.io/zh/>
 [Claude Code]: <https://claude.com/product/claude-code>
