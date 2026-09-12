@@ -1,40 +1,48 @@
-### 🇨🇳 Hi there 👋
+# Hi, I'm wangzhizhou 👋
 
-- 👨🏻‍💻 I am a Chinese Apple developer.
-  
-- 🎯 I'm currently working and learning on:
-  - ⌨️ [Swift][Swift] & [SwiftUI][SwiftUI] & [SwiftData][SwiftData] & [SwiftTesting][SwiftTesting]
-  - 💧 [Vapor][Vapor] / [Hummingbird][Hummingbird] & [Swagger][Swagger] / [OpenAPI][OpenAPI]
-  - 🎮 [Minecraft][Minecraft] & [PaperMC][PaperMC] & [OrzMC Plugin][OrzMCPlugin]
-  - 🦀 New to [Rust][Rust]
-      
-- ❤️‍🔥 Languages:
-  - Bash/Python/Ruby
-  - C/C++/ObjC/Swift/Rust
-  - 😅 ArkTS
-  - 🤖 AI Agent
- 
-- 📫 How to reach me: 
-  - WeChat: `w_z_z_1991`
-  - QQ: `824219521`
- 
----
-- 📱 App I developed:
-  - [APNs Helper][APNs Helper]
+Apple platform developer · Swift / SwiftUI / Server-side Swift
+Building with AI agents and the Minecraft server ecosystem
 
-- 📦 Packages I made:
-  - [joker@SPI][joker@spi]
-  
-- 🚀 Vide Coding:
-  - Tools:
-    - [Pi Coding Agent][Pi Coding Agent]
-    - [Claude Code][Claude Code]
-    - [CC Switch][CC Switch]
-    - [Hermes][Hermes]
-    - [OpenClaw][OpenClaw]
-    - [Codex][Codex]
-    - [TRAE][TRAE]
-         
+## 📱 Apps I developed
+
+- [APNs Helper][APNs Helper] — an iOS app for sending APNs notifications, with custom payloads, `.p8` key import and reusable preset configs
+
+## 📦 Packages I published
+
+- [joker@SPI][joker@spi]
+
+## 🎯 Currently working and learning
+
+- ⌨️ [Swift][Swift] & [SwiftUI][SwiftUI] & [SwiftData][SwiftData] & [Swift Testing][SwiftTesting]
+- 💧 [Vapor][Vapor] / [Hummingbird][Hummingbird] & [Swagger][Swagger] / [OpenAPI][OpenAPI]
+- 🎮 [Minecraft][Minecraft] & [PaperMC][PaperMC] & [OrzMC Plugin][OrzMCPlugin]
+- 🦀 New to [Rust][Rust]
+
+## 🧰 Tech stack
+
+- **Primary:** Swift · SwiftUI · SwiftData · Swift Testing · Objective-C
+- **Server-side:** Vapor · Hummingbird · OpenAPI / Swagger
+- **Others:** Bash · Python · Ruby · C / C++ · Rust · ArkTS
+- **AI:** building agent workflows with Pi, Claude Code, Codex and more
+
+## 🚀 Vibe Coding
+
+- [Pi Coding Agent][Pi Coding Agent]
+- [Claude Code][Claude Code]
+- [CC Switch][CC Switch]
+- [Hermes][Hermes]
+- [OpenClaw][OpenClaw]
+- [Codex][Codex]
+- [TRAE][TRAE]
+
+## 📫 Contact
+
+- Email: `824219521@qq.com`
+
+## 📚 More
+
+- [my-stars](https://github.com/wangzhizhou/my-stars) — my GitHub starred-repos index, auto-synced daily
+
 ---
 
 [Swift]: <https://swift.org>
@@ -43,7 +51,7 @@
 [SwiftTesting]: <https://developer.apple.com/xcode/swift-testing/>
 [Vapor]: <https://vapor.codes>
 [Hummingbird]: <https://hummingbird.codes/>
-[Minecraft]: <https://minecraft.jokerhub.cn>
+[Minecraft]: <https://www.minecraft.net>
 [PaperMC]: <https://papermc.io/>
 [OrzMCPlugin]: <https://hangar.papermc.io/wangzhizhou666/OrzMC>
 [OpenAPI]: <https://www.openapis.org/what-is-openapi>
